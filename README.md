@@ -1,1 +1,1 @@
-"# TipCalculator" 
+JavaScript series #1 
