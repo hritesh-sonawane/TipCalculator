@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe55ffb9-e2b5-42ae-883e-518b6ad86e38" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ieWiNLXkt68GwQpGuHVQRU6qpN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Vue/VueMastery-tuts" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe55ffb9-e2b5-42ae-883e-518b6ad86e38" name="Default Changelist" comment="" />
+      <created>1602268664610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602268664610</updated>
+      <workItem from="1602268665626" duration="577000" />
+      <workItem from="1602269259215" duration="37000" />
+      <workItem from="1602269323569" duration="32000" />
+      <workItem from="1602269369174" duration="113000" />
+      <workItem from="1602269497166" duration="90000" />
+      <workItem from="1602269600131" duration="511000" />
+      <workItem from="1602270142409" duration="71000" />
+      <workItem from="1602270227268" duration="47000" />
+      <workItem from="1602270291050" duration="275000" />
+      <workItem from="1602308719429" duration="58000" />
+      <workItem from="1602338346436" duration="75000" />
+      <workItem from="1602391748300" duration="176000" />
+      <workItem from="1602438066537" duration="149000" />
+      <workItem from="1602675667176" duration="259000" />
+      <workItem from="1602754776323" duration="51000" />
+      <workItem from="1602779953186" duration="41000" />
+      <workItem from="1602780030253" duration="72000" />
+      <workItem from="1602818102593" duration="511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="184" key="#Notifications" timestamp="1602438106594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="184" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1602438106594" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602818620506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602818620506" />
+    <state x="149" y="0" key="SettingsEditor" timestamp="1602675876654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="149" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602675876654" />
+    <state x="405" y="269" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602438127246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="269" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1602438127246" />
+  </component>
+</project>
